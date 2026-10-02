@@ -94,7 +94,7 @@ What the decorator extracts:
 - [**Type hints**](https://docs.python.org/3/glossary.html#term-type-hint) define parameter types
 - The **return value** is formatted as the tool's text response
 
-The docstring isn't just documentation, it's the instruction the model uses to decide *when* to call the tool. See [Custom tools](https://strandsagents.com/docs/user-guide/concepts/tools/custom-tools/) in the Strands docs for the full specification.
+The docstring isn't just documentation, it's the instruction the model uses to decide *when* to call the tool. See [Custom tools](https://strandsagents.com/docs/user-guide/sdk/tools/custom-tools/) in the Strands docs for the full specification.
 
 ### Attaching Tools to an Agent
 
